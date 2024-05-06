@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="57e32d2e-fa1b-403c-a258-4629ee006a16" name="Changes" comment="create frontend module">
+    <list default="true" id="57e32d2e-fa1b-403c-a258-4629ee006a16" name="Changes" comment="update vite.config.ts">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -15,6 +15,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Frenk93"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Frenk93/woerterbuch_project.git",
+    "accountId": "9fa79e85-6b9a-4efb-93c2-22f46196778a"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 3
 }]]></component>
@@ -37,6 +49,9 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_interpreter_path": "node",
     "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "ts.external.directory.path": "/Users/frenks/JavaFullstackProjekt/woerterbuch_project/frontend/node_modules/typescript/lib",
     "vue.rearranger.settings.migration": "true"
   }
@@ -57,7 +72,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1714984549671</updated>
-      <workItem from="1714984550600" duration="661000" />
+      <workItem from="1714984550600" duration="1433000" />
     </task>
     <task id="LOCAL-00001" summary="gitignore">
       <option name="closed" value="true" />
@@ -91,7 +106,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714985132946</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="update vite.config.ts">
+      <option name="closed" value="true" />
+      <created>1714985287700</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1714985287700</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -101,6 +124,7 @@
     <MESSAGE value="gitignore" />
     <MESSAGE value="create backend module" />
     <MESSAGE value="create frontend module" />
-    <option name="LAST_COMMIT_MESSAGE" value="create frontend module" />
+    <MESSAGE value="update vite.config.ts" />
+    <option name="LAST_COMMIT_MESSAGE" value="update vite.config.ts" />
   </component>
 </project>
